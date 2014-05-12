@@ -8,4 +8,4 @@ Public Repository for StarQuest community. Mainly for bug reporting. Please use 
 3) No ban appeals/requests
 4) No donation support questions
 
-Thanks you
+Thank you
